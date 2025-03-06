@@ -11,7 +11,7 @@ Current default sorter at [sorter.js](./sorter.js) will sort with order...
 
 [Number.isNaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isNaN)
 
-JavaScript as a language provides the following eight basic data types:
+JavaScript as a language provides the following [eight basic data types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values):
 Number.
 String.
 Boolean.
